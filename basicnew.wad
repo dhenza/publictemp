@@ -1035,7 +1035,7 @@ global int 0:reward;
 
 script 1 OPEN
 {
-    //SpawnTarget();
+    SpawnTarget();
     reward = 0;
 }
 int c =0;
